@@ -11,13 +11,13 @@ This application was made over the course of a number of months with four indivi
 [abotemper](https://github.com/abotemper)
 
 ## Branches
-*Main* The main branch contains the actual application as it was deployed, with the random forest models included.
+*Main:* The main branch contains the actual application as it was deployed, with the random forest models included.
 
-*Data* Contains code pertaining to the process by which the models were made.
+*Data:* Contains code pertaining to the process by which the models were made.
 
-*Testing* The testing branch contains all the unit test and various other tests which were conducted. 
+*Testing:* The testing branch contains all the unit test and various other tests which were conducted. 
 
-*Documentation* The documentation branch contains details on how to run this project locally and various images of the application.
+*Documentation:* The documentation branch contains details on how to run this project locally and various images of the application.
 
 ## Application Architecture
 
