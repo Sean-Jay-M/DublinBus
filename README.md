@@ -10,7 +10,7 @@ This application was made over the course of a number of months with four indivi
 
 [abotemper](https://github.com/abotemper)
 
-This is **not** the original repository, visit ----Here----.
+
 
 ## Branches
 *Main* The main branch contains the actual application as it was deployed, with the random forest models included.
