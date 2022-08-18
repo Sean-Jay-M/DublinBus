@@ -1,6 +1,10 @@
 # DublinBus
 A React - Flask web application which utilizes Machine Learning techniques and models to predict bus journey times with a 95.8% Accuracy.
-This application was made over the course of a number of months with four individuals Sean Moiselle, Oscar Deburca Fernandez, Tian Bo and Zaur Gouliev. 
+This application was made over the course of a number of months with four individuals: 
+[Sean-Jay-M](https://github.com/Sean-Jay-M)
+[Oscardbf](https://github.com/Oscardbf)
+[Zaur Gouliev](https://github.com/gouliev)
+[abotemper](https://github.com/abotemper)
 
 This is **not** the original repository, visit ----Here----.
 
@@ -11,3 +15,7 @@ This is **not** the original repository, visit ----Here----.
 *Documentation* The documentation branch contains details on how to run this project locally.
 
 ## Application Architecture
+
+
+The Original Repository can be found here: 
+[Dublin Bus App ](https://github.com/gouliev/dublinbusapp)
