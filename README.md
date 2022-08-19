@@ -20,7 +20,14 @@ This application was made over the course of a number of months with four indivi
 *Documentation:* The documentation branch contains details on how to run this project locally and various images of the application.
 
 ## Application Architecture
-![Architecture](https://github.com/Sean-Jay-M/BashDatabase/blob/main/images/databasestructure.png)
+![Architecture](https://github.com/Sean-Jay-M/DublinBus/blob/documentation/images/webStackImage.png)
+
+The application makes use of a *React* Frontend whih provides the user interface and exclusively handles the *cookie features*
+
+The *Flask* application provides two services:
+  -The Prediction API makes use of 246 prediction models which can give an approximate 2^24 predictions.
+  -The Weather API provides utilizes information from a *PostgreSQL* database to provide current weather conditions
+  
 
 
 ## Notes
