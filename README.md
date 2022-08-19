@@ -22,7 +22,7 @@ This application was made over the course of a number of months with four indivi
 ## Application Architecture
 ![Architecture](https://github.com/Sean-Jay-M/DublinBus/blob/documentation/images/webStackImage.png)
 
-The application makes use of a *React* Frontend whih provides the user interface and exclusively handles the *cookie features*
+The application makes use of a *React* Frontend whih provides the user interface and exclusively handles the *cookie features*. This is supported by a number of packages and other technologies in order to provide the frontend interface such as Bootstrap. 
 
 The *Flask* application provides two services:
 
