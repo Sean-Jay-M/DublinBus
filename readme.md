@@ -44,13 +44,13 @@ Within the *config/config.ini* file you must set the following parameters:
 
 From here go to the directory where *run.py* is contained. Run the following commands:
 
-  $ python
-  
-  $ from flask_react import DB 
-  
-  $ from flask_react.models import Weather
-  
-  $ db.create_all()
+    $ python
+
+    $ from flask_react import DB 
+
+    $ from flask_react.models import Weather
+
+    $ db.create_all()
   
 Now the table will be created within your *PostgreSQL* database.
 
