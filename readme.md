@@ -18,11 +18,11 @@ Install [Node.js](https://nodejs.org/en/)
 
 Run the following command in the *frontend* directory 
 
-  npx create-react-app my-react-app
+    npx create-react-app my-react-app
 
 or
 
-  npm install react
+    npm install react
 
 Be sure to npm install any required packages.
 
@@ -64,6 +64,6 @@ Change to the directory *frontend* ensure you have npx installed React and the r
 
 run the following command:
 
-  $ npm start run
+    $ npm start run
   
 This will open up the application and run it.
