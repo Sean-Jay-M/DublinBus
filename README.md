@@ -35,9 +35,22 @@ The *PostgreSQL* database is populated by the *Scraper.py* script. This script c
 
 *Google Maps* Provides the API for map.
 
+## Data Analytics
+![Architecture](https://github.com/Sean-Jay-M/DublinBus/blob/documentation/images/dataAnalyticsTwo.png)
 
-  
+The data which we were provided with was done so on the requirement that the original dataset never left the provided servers. Due to this a technical stack for conducting Data Analysis, Cleaning and Model creation was made. The original dataset was a csv file, which was loaded line by line by a python script into a MySQL database due to memory constraints. In order to connect to the server's *Jupyter Notebooks* a Bash script was created which would allow users to connect to the notebooks using SSH from their local machine. Further scripts were used to standardize initial Data Cleaning such that each person analyzing the Data had a standardized starting point.
 
+A number of models were reviewed including:
+  - Linear Regression
+  - Decision Tree
+  - K-Nearest 
+  - Artifial Neural Networks 
+  - Random Forest Regressor
+
+The *Random Forest Regressor* was chosen due to having the most optimal performance metrics of: 
+- R^2: 0.958
+- MAE: 129.710's
+- MSE: 220.811's
 
 ## Notes
 The Original Repository can be found here: 
