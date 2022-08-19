@@ -60,7 +60,7 @@ The application was hosted over a period of two months. Utilizing AWS Lightsail 
 ## Notes
 To run this project locally read the following documentation: 
 
-[Dublin Bus App ](https://github.com/gouliev/dublinbusapp)
+[Run Project Locally](https://github.com/Sean-Jay-M/DublinBus/blob/documentation/readme.md)
 
 The Original Repository can be found here: 
 
