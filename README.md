@@ -20,8 +20,10 @@ This application was made over the course of a number of months with four indivi
 *Documentation:* The documentation branch contains details on how to run this project locally and various images of the application.
 
 ## Application Architecture
+![Architecture](https://github.com/Sean-Jay-M/BashDatabase/blob/main/images/databasestructure.png)
 
 
+## Notes
 The Original Repository can be found here: 
 
 [Dublin Bus App ](https://github.com/gouliev/dublinbusapp)
