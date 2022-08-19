@@ -52,7 +52,15 @@ The *Random Forest Regressor* was chosen due to having the most optimal performa
 - MAE: 129.710's
 - MSE: 220.811's
 
+## Hosting
+![Architecture](https://github.com/Sean-Jay-M/DublinBus/blob/documentation/images/hostingGraph.png)
+The application was hosted over a period of two months. Utilizing AWS Lightsail for Ubuntu 20.04 and PostgreSQL 12.10 instances. Hosting made use of other technologies: *Certbot* was implemented for SSL certification in order to gain use of Location Based Services, *Nginx* was implemented as a reverse proxy server while *gunicorn* provided a python http server for Unix Systems. Furthermore, *supervisor* was used to run and monitor the application while *Uncomplicated Firewall* managed the connectivity rules.
+
 ## Notes
+To run this project locally read the following documentation: 
+
+[Dublin Bus App ](https://github.com/gouliev/dublinbusapp)
+
 The Original Repository can be found here: 
 
 [Dublin Bus App ](https://github.com/gouliev/dublinbusapp)
