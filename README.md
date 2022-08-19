@@ -25,8 +25,17 @@ This application was made over the course of a number of months with four indivi
 The application makes use of a *React* Frontend whih provides the user interface and exclusively handles the *cookie features*
 
 The *Flask* application provides two services:
-  -The Prediction API makes use of 246 prediction models which can give an approximate 2^24 predictions.
-  -The Weather API provides utilizes information from a *PostgreSQL* database to provide current weather conditions
+
+  - The Prediction API makes use of 246 prediction models which can give an approximate 2^24 predictions.
+  - The Weather API provides utilizes information from a *PostgreSQL* database to provide current weather conditions
+
+The *PostgreSQL* database is populated by the *Scraper.py* script. This script calls the static method *insertData* which belongs to the weather class to populate the database.
+
+*AccuWeather* is scraped for weather data.
+
+*Google Maps* Provides the API for map.
+
+
   
 
 
