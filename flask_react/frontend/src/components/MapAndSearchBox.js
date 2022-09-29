@@ -33,7 +33,7 @@ height: '100%'
 };
 const zoom = 14;
 
-Geocode.setApiKey("AIzaSyD7bAzj9B7jo2UGQaOfcJjZl-R7AtQ51so")
+Geocode.setApiKey("")
 Geocode.setLanguage("en")
 Geocode.setRegion("ie")
 Geocode.setLocationType("ROOFTOP")
